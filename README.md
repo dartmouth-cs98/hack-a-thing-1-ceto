@@ -10,7 +10,7 @@
 #### What Description of What Was Learned
 - This was my first time dealing with the storyboard for XCode as well as general iOS development
 - Using a graphical interface builder is interesting and very helpful, I appreciated being able to layout the setup of the app before having to connect the pieces
-- This borught back the Model-View-Controller concepts that I learned during CS65 a little while ago
+- This brought back the Model-View-Controller concepts that I learned during CS65 a little while ago
 ---
 #### What Didn't Work
 - This particular portion of the tutorial didn't seem to be too difficult or time consuming (other than getting XCode set up properly), so I'm hoping to dive a bit deeper and add some additional features
